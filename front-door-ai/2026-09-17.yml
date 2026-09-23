@@ -1,0 +1,21 @@
+# Front Door AI Index — silkroad-images — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: silkroad-images
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: silkroad-images.com
+  final_host: silkroad-images.com
+  ownership: own
+  owner: silkroad-images
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null
